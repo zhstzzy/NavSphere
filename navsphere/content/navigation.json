@@ -338,7 +338,7 @@
               "title": "NeatChat",
               "href": "https://chat.bestip.one/#/settings",
               "description": "白嫖大佬提供",
-              "icon": "/assets/img_1753799518007.png",
+              "icon": "https://chat.bestip.one/android-chrome-192x192.png",
               "enabled": true
             },
             {
