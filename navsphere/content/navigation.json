@@ -61,7 +61,7 @@
               "title": "订阅转换",
               "href": "https://sub.vavv.cn/",
               "description": "Free Cloud 提供的订阅转换",
-              "icon": "https://favicon.im/sub.vavv.cn?larger=true",
+              "icon": "https://sub.vavv.cn/img/icons/android-chrome-192x192.png",
               "enabled": true
             },
             {
@@ -126,7 +126,7 @@
               "title": "DigitalPlat Domain",
               "href": "https://dash.domain.digitalplat.org/auth/login?next=%2F",
               "description": "免费域名 zhzy.dpdns.org copy.qzz.io",
-              "icon": "https://favicon.im/dash.domain.digitalplat.org?larger=true",
+              "icon": "https://dash.domain.digitalplat.org/static/img/logo.jpg",
               "enabled": true
             },
             {
@@ -142,7 +142,7 @@
               "title": "云解析|华为云",
               "href": "https://console-intl.huaweicloud.com/dns/?region=af-north-1#/dns/publiczones",
               "description": "华为云国际站",
-              "icon": "https://favicon.im/console-intl.huaweicloud.com?larger=true",
+              "icon": "https://console-static.huaweicloud.com/static/authui/20250727213448/favicon.ico",
               "enabled": true
             }
           ]
@@ -232,7 +232,7 @@
               "title": "佛系软件",
               "href": "https://foxirj.com/",
               "description": "",
-              "icon": "https://favicon.im/foxirj.com?larger=true",
+              "icon": "https://foxirj.com/favicon.ico",
               "enabled": true
             },
             {
@@ -338,7 +338,7 @@
               "title": "NeatChat",
               "href": "https://chat.bestip.one/#/settings",
               "description": "白嫖大佬提供",
-              "icon": "https://favicon.im/chat.bestip.one?larger=true",
+              "icon": "https://chat.bestip.one/android-chrome-192x192.png",
               "enabled": true
             },
             {
@@ -460,7 +460,7 @@
               "title": "电子书转换",
               "href": "http://cn.epubee.com/",
               "description": "在线电子书转换, 免费电子书转换器",
-              "icon": "https://favicon.im/cn.epubee.com?larger=true",
+              "icon": "http://cn.epubee.com/icon.ico",
               "enabled": true
             }
           ]
@@ -576,7 +576,7 @@
               "title": "密码库 | xuxo",
               "href": "https://password.xuxo.top/#/vault",
               "description": "L站 | xuxo",
-              "icon": "https://favicon.im/password.xuxo.top?larger=true",
+              "icon": "https://password.xuxo.top/images/favicon-32x32.png",
               "enabled": true
             },
             {
