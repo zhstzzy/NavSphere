@@ -590,6 +590,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1753800024212",
+      "title": "影音",
+      "icon": "Folder",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
