@@ -557,10 +557,10 @@
           "items": [
             {
               "id": "1753795034886",
-              "title": "Claw Cloud",
+              "title": "claw.cloud",
               "href": "https://us-west-1.run.claw.cloud/",
-              "description": "",
-              "icon": "https://favicon.im/us-west-1.run.claw.cloud?larger=true",
+              "description": "ClawCloud",
+              "icon": "/assets/favicon_1754281772086.png",
               "enabled": true
             },
             {
