@@ -853,7 +853,16 @@
       "icon": "LayoutList",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1754283001314",
+          "title": "凌云",
+          "href": "https://new.linglong521.cn/",
+          "description": "下载站",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
