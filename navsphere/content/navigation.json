@@ -686,6 +686,14 @@
               "description": "",
               "icon": "https://btbtt17.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282287389",
+              "title": "Verify Yourself",
+              "href": "https://www.2bt0.com/",
+              "description": "",
+              "icon": "/assets/favicon_1754282299697.ico",
+              "enabled": true
             }
           ]
         },
