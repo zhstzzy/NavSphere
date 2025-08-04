@@ -621,6 +621,14 @@
               "description": "The Movie Database (TMDB) is a popular, user editable database for movies and TV shows.",
               "icon": "/assets/favicon_1754281961802.png",
               "enabled": true
+            },
+            {
+              "id": "1754281974157",
+              "title": "Welcome - TheTVDB.com",
+              "href": "https://thetvdb.com/",
+              "description": "",
+              "icon": "/assets/favicon_1754281976591.png",
+              "enabled": true
             }
           ]
         },
