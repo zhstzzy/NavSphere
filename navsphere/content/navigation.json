@@ -694,6 +694,14 @@
               "description": "",
               "icon": "https://www.2bt0.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282489610",
+              "title": "音范丝 | 首页——精选4K蓝光原盘下载,顶级收藏",
+              "href": "https://www.yinfans.me/",
+              "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
+              "icon": "/assets/favicon_1754282499216.ico",
+              "enabled": true
             }
           ]
         },
