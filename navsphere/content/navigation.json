@@ -795,7 +795,16 @@
       "icon": "Mail",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1754282819418",
+          "title": "mail.qq.com",
+          "href": "https://mail.qq.com/",
+          "description": "",
+          "icon": "/assets/favicon_1754282823917.ico",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
