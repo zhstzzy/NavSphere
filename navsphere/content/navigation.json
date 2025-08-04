@@ -869,6 +869,14 @@
           "description": "",
           "icon": "/assets/favicon_1754283034474.ico",
           "enabled": true
+        },
+        {
+          "id": "1754283057243",
+          "title": "百度网盘-免费云盘丨文件共享软件丨超大容量丨存储安全",
+          "href": "https://pan.baidu.com/",
+          "description": "",
+          "icon": "https://pan.baidu.com/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
