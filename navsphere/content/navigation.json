@@ -877,6 +877,14 @@
           "description": "夸克网盘是夸克推出的一款云服务产品，功能包括云存储、高清看剧、文件在线解压、PDF一键转换等。通过夸克网盘可随时随地管理和使用照片、文档、手机资料，目前支持Android、iOS、PC、iPad。",
           "icon": "/assets/favicon_1754283079098.png",
           "enabled": true
+        },
+        {
+          "id": "1754298845384",
+          "title": "PanSou 盘搜",
+          "href": "https://so.252035.xyz/",
+          "description": "",
+          "icon": "https://so.252035.xyz/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
