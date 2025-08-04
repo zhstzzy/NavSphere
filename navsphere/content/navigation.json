@@ -861,6 +861,14 @@
           "description": "下载站",
           "icon": "",
           "enabled": true
+        },
+        {
+          "id": "1754283031510",
+          "title": "阿里云盘",
+          "href": "https://www.aliyundrive.com/drive",
+          "description": "",
+          "icon": "/assets/favicon_1754283034474.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
