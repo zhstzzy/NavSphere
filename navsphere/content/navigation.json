@@ -835,6 +835,14 @@
           "description": "Temp Email",
           "icon": "/assets/favicon_1754282891371.png",
           "enabled": true
+        },
+        {
+          "id": "1754282913381",
+          "title": "University of Iverness",
+          "href": "https://tmail.ui.edu.kg/user",
+          "description": "",
+          "icon": "/assets/favicon_1754282921356.png",
+          "enabled": true
         }
       ],
       "subCategories": []
