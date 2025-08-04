@@ -149,8 +149,8 @@
               "id": "site_1753793493187_1tf2xewdp",
               "title": "云解析|华为云",
               "href": "https://console-intl.huaweicloud.com/dns/?region=af-north-1#/dns/publiczones",
-              "description": "华为云国际站",
-              "icon": "https://console-static.huaweicloud.com/static/authui/20250727213448/favicon.ico",
+              "description": "",
+              "icon": "/assets/favicon_1754283151252.ico",
               "enabled": true
             }
           ]
