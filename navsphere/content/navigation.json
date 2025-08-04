@@ -9,6 +9,55 @@
       "items": [],
       "subCategories": [
         {
+          "id": "c042ed75-7857-4182-9767-ffe8e5f41430",
+          "title": "默认",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1753795034886",
+              "title": "claw.cloud",
+              "href": "https://us-west-1.run.claw.cloud/",
+              "description": "ClawCloud",
+              "icon": "/assets/favicon_1754281772086.png",
+              "enabled": true
+            },
+            {
+              "id": "1753795057786",
+              "title": "在线ps",
+              "href": "https://www.nuanque.com/ps/",
+              "description": "",
+              "icon": "https://favicon.im/www.nuanque.com?larger=true",
+              "enabled": true
+            },
+            {
+              "id": "1753795065951",
+              "title": "Qwerty Learner",
+              "href": "https://qwerty.kaiyi.cool/",
+              "description": "",
+              "icon": "https://favicon.im/qwerty.kaiyi.cool?larger=true",
+              "enabled": true
+            },
+            {
+              "id": "1753795073104",
+              "title": "腾讯文档",
+              "href": "https://docs.qq.com/desktop/mydoc",
+              "description": "",
+              "icon": "https://favicon.im/docs.qq.com?larger=true",
+              "enabled": true
+            },
+            {
+              "id": "1753795088242",
+              "title": "Figma: The Collaborative Interface Design Tool",
+              "href": "https://www.figma.com/",
+              "description": "Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.",
+              "icon": "/assets/favicon_1754278935385.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
           "id": "1ce4253b-2711-428c-90b4-1014f685cb05",
           "title": "机场",
           "icon": "Cloud",
@@ -544,55 +593,6 @@
               "href": "https://mm.copyz.top/#/vault",
               "description": "自建",
               "icon": "https://favicon.im/mm.copyz.top?larger=true",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "c042ed75-7857-4182-9767-ffe8e5f41430",
-          "title": "默认",
-          "icon": "Folder",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1753795034886",
-              "title": "claw.cloud",
-              "href": "https://us-west-1.run.claw.cloud/",
-              "description": "ClawCloud",
-              "icon": "/assets/favicon_1754281772086.png",
-              "enabled": true
-            },
-            {
-              "id": "1753795057786",
-              "title": "在线ps",
-              "href": "https://www.nuanque.com/ps/",
-              "description": "",
-              "icon": "https://favicon.im/www.nuanque.com?larger=true",
-              "enabled": true
-            },
-            {
-              "id": "1753795065951",
-              "title": "Qwerty Learner",
-              "href": "https://qwerty.kaiyi.cool/",
-              "description": "",
-              "icon": "https://favicon.im/qwerty.kaiyi.cool?larger=true",
-              "enabled": true
-            },
-            {
-              "id": "1753795073104",
-              "title": "腾讯文档",
-              "href": "https://docs.qq.com/desktop/mydoc",
-              "description": "",
-              "icon": "https://favicon.im/docs.qq.com?larger=true",
-              "enabled": true
-            },
-            {
-              "id": "1753795088242",
-              "title": "Figma: The Collaborative Interface Design Tool",
-              "href": "https://www.figma.com/",
-              "description": "Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.",
-              "icon": "/assets/favicon_1754278935385.png",
               "enabled": true
             }
           ]
