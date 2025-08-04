@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1753795065951",
-          "title": "Qwerty Learner",
-          "href": "https://qwerty.kaiyi.cool/",
-          "description": "",
-          "icon": "https://favicon.im/qwerty.kaiyi.cool?larger=true",
-          "enabled": true
-        },
-        {
           "id": "1753795073104",
           "title": "腾讯文档",
           "href": "https://docs.qq.com/desktop/mydoc",
@@ -602,6 +594,14 @@
               "href": "https://www.nuanque.com/ps/",
               "description": "",
               "icon": "https://favicon.im/www.nuanque.com?larger=true",
+              "enabled": true
+            },
+            {
+              "id": "1753795065951",
+              "title": "Qwerty Learner",
+              "href": "https://qwerty.kaiyi.cool/",
+              "description": "",
+              "icon": "https://favicon.im/qwerty.kaiyi.cool?larger=true",
               "enabled": true
             }
           ]
