@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1753795034886",
-          "title": "Claw Cloud",
-          "href": "https://us-west-1.run.claw.cloud/",
-          "description": "",
-          "icon": "https://favicon.im/us-west-1.run.claw.cloud?larger=true",
-          "enabled": true
-        },
-        {
           "id": "1753795057786",
           "title": "在线ps",
           "href": "https://www.nuanque.com/ps/",
@@ -603,7 +595,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753795034886",
+              "title": "Claw Cloud",
+              "href": "https://us-west-1.run.claw.cloud/",
+              "description": "",
+              "icon": "https://favicon.im/us-west-1.run.claw.cloud?larger=true",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
