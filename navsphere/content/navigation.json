@@ -670,7 +670,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754282270286",
+              "title": "BT之家1LOU站-回归初心，追求极简",
+              "href": "https://www.1lou.me/",
+              "description": "分享快乐,如此简单 !  BT电影天堂-影视资源交流社区 , BT之家官网：1lOU.ME ，BT之家BTBTT，BT之家BTBBT，BTHome，BTHouse",
+              "icon": "/assets/favicon_1754282272859.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "6d0dc229-8730-4411-a13c-9ac478159a10",
