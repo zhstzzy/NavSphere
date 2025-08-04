@@ -678,6 +678,14 @@
               "description": "分享快乐,如此简单 !  BT电影天堂-影视资源交流社区 , BT之家官网：1lOU.ME ，BT之家BTBTT，BT之家BTBBT，BTHome，BTHouse",
               "icon": "/assets/favicon_1754282272859.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282277657",
+              "title": "Redirecting...",
+              "href": "https://btbtt17.com/",
+              "description": "",
+              "icon": "https://btbtt17.com/favicon.ico",
+              "enabled": true
             }
           ]
         },
