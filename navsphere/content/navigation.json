@@ -727,7 +727,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754282592345",
+              "title": "字幕库",
+              "href": "https://zmk.pw/",
+              "description": "",
+              "icon": "https://zmk.pw/favicon.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "ac1cb366-fb1b-44da-ba39-c38160f6eb58",
