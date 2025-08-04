@@ -613,7 +613,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754281959762",
+              "title": "The Movie Database (TMDB)",
+              "href": "https://www.themoviedb.org/",
+              "description": "The Movie Database (TMDB) is a popular, user editable database for movies and TV shows.",
+              "icon": "/assets/favicon_1754281961802.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "8c9f071a-6104-417d-ac5d-2b90635c4919",
