@@ -630,6 +630,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "ac1cb366-fb1b-44da-ba39-c38160f6eb58",
+          "title": "音乐",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
