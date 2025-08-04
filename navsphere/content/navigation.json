@@ -661,6 +661,14 @@
               "description": "The largest collection of free stuff on the internet!",
               "icon": "/assets/favicon_1754282054124.png",
               "enabled": true
+            },
+            {
+              "id": "1754282072700",
+              "title": "TVBox配置 | 导航",
+              "href": "https://jinenyy.vip/app/tvbox/",
+              "description": "TVBox家庭必备神器配置源",
+              "icon": "/assets/favicon_1754282074516.ico",
+              "enabled": true
             }
           ]
         },
