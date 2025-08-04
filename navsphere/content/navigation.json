@@ -760,6 +760,14 @@
               "description": "HE-Music | EO加速",
               "icon": "/assets/favicon_1754282698028.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282725137",
+              "title": "HE-Music",
+              "href": "https://y.wjhe.top/#/discover?platform=kuwo",
+              "description": "HE-Music | CF加速\n",
+              "icon": "/assets/favicon_1754282727753.ico",
+              "enabled": true
             }
           ]
         }
