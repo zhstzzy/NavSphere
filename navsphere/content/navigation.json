@@ -752,7 +752,16 @@
           "icon": "Folder",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754282695486",
+              "title": "HE-Music",
+              "href": "https://yy.wjhe.top/#/discover?platform=kuwo",
+              "description": "HE-Music | EO加速",
+              "icon": "/assets/favicon_1754282698028.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
