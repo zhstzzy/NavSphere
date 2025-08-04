@@ -776,6 +776,14 @@
               "description": "Discover and play over 320 million music tracks. Join the world’s largest online community of artists, bands, DJs, and audio creators.",
               "icon": "/assets/favicon_1754282744089.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282752777",
+              "title": "无损音乐免费下载 连环画小人书免费在线阅读鉴赏|魔方城堡",
+              "href": "http://www.mfcb.net/",
+              "description": "flac 无损音乐免费下载,连环画,小人书免费在线阅读",
+              "icon": "http://media.mfcb.net/wp-content/uploads/2020/05/logo.png",
+              "enabled": true
             }
           ]
         }
