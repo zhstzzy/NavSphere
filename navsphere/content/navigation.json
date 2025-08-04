@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1753795073104",
-          "title": "腾讯文档",
-          "href": "https://docs.qq.com/desktop/mydoc",
-          "description": "",
-          "icon": "https://favicon.im/docs.qq.com?larger=true",
-          "enabled": true
-        },
-        {
           "id": "1753795088242",
           "title": "Figma",
           "href": "https://www.figma.com/",
@@ -602,6 +594,14 @@
               "href": "https://qwerty.kaiyi.cool/",
               "description": "",
               "icon": "https://favicon.im/qwerty.kaiyi.cool?larger=true",
+              "enabled": true
+            },
+            {
+              "id": "1753795073104",
+              "title": "腾讯文档",
+              "href": "https://docs.qq.com/desktop/mydoc",
+              "description": "",
+              "icon": "https://favicon.im/docs.qq.com?larger=true",
               "enabled": true
             }
           ]
