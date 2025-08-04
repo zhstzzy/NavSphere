@@ -735,6 +735,14 @@
               "description": "",
               "icon": "https://zmk.pw/favicon.png",
               "enabled": true
+            },
+            {
+              "id": "1754282656105",
+              "title": "分享交流下载字幕平台 - SubHD",
+              "href": "https://subhd.tv/",
+              "description": "",
+              "icon": "/assets/favicon_1754282663670.png",
+              "enabled": true
             }
           ]
         },
