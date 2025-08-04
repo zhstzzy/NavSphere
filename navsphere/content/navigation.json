@@ -594,14 +594,6 @@
               "description": "Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.",
               "icon": "/assets/favicon_1754278935385.png",
               "enabled": true
-            },
-            {
-              "id": "1754229699374",
-              "title": "Lucide",
-              "href": "https://lucide.dev/",
-              "description": "Beautiful & consistent icon toolkit made by the community.",
-              "icon": "/assets/favicon_1754278948172.ico",
-              "enabled": true
             }
           ]
         }
