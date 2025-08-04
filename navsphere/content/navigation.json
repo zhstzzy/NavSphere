@@ -819,6 +819,14 @@
           "description": "Gmail is email that’s intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
           "icon": "/assets/favicon_1754282859643.ico",
           "enabled": true
+        },
+        {
+          "id": "1754282877062",
+          "title": "Outlook",
+          "href": "https://outlook.live.com/mail/",
+          "description": "",
+          "icon": "/assets/favicon_1754282879664.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
