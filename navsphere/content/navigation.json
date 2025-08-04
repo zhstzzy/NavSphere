@@ -622,6 +622,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "6d0dc229-8730-4411-a13c-9ac478159a10",
+          "title": "字幕",
+          "icon": "Folder",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
