@@ -637,6 +637,14 @@
               "description": "樱花动漫拥有上万集高清晰画质的在线动漫，观看完全免费、无须注册、高速播放、更新及时的专业在线樱花动漫站，我们致力为所有动漫迷们提供最好看的动漫。",
               "icon": "/assets/favicon_1754282007890.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282021796",
+              "title": "SeedHub | 影视&动漫分享",
+              "href": "https://www.seedhub.cc/",
+              "description": "SeedHub 每天为您分享优质的电影、电视剧和动漫资讯。免费分享，无需注册，更新及时，我们致力打造最好的影视资讯分享站！",
+              "icon": "/assets/favicon_1754282026901.ico",
+              "enabled": true
             }
           ]
         },
