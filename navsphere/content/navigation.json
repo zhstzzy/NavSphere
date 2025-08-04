@@ -710,6 +710,14 @@
               "description": "",
               "icon": "/assets/favicon_1754282518430.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282525532",
+              "title": "介绍 | RSSHub",
+              "href": "https://rsshub.netlify.app/zh/",
+              "description": "RSSHub",
+              "icon": "/assets/favicon_1754282528230.png",
+              "enabled": true
             }
           ]
         },
