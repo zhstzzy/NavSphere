@@ -8,14 +8,6 @@
       "enabled": true,
       "items": [
         {
-          "id": "1753795057786",
-          "title": "在线ps",
-          "href": "https://www.nuanque.com/ps/",
-          "description": "",
-          "icon": "https://favicon.im/www.nuanque.com?larger=true",
-          "enabled": true
-        },
-        {
           "id": "1753795065951",
           "title": "Qwerty Learner",
           "href": "https://qwerty.kaiyi.cool/",
@@ -602,6 +594,14 @@
               "href": "https://us-west-1.run.claw.cloud/",
               "description": "",
               "icon": "https://favicon.im/us-west-1.run.claw.cloud?larger=true",
+              "enabled": true
+            },
+            {
+              "id": "1753795057786",
+              "title": "在线ps",
+              "href": "https://www.nuanque.com/ps/",
+              "description": "",
+              "icon": "https://favicon.im/www.nuanque.com?larger=true",
               "enabled": true
             }
           ]
