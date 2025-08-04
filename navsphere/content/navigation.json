@@ -702,6 +702,14 @@
               "description": "音范丝是一个搜集、精选的高品质电影资源网站。",
               "icon": "/assets/favicon_1754282499216.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282515176",
+              "title": "ACG.RIP",
+              "href": "https://acg.rip/",
+              "description": "",
+              "icon": "/assets/favicon_1754282518430.ico",
+              "enabled": true
             }
           ]
         },
