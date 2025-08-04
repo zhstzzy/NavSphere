@@ -768,6 +768,14 @@
               "description": "HE-Music | CF加速\n",
               "icon": "/assets/favicon_1754282727753.ico",
               "enabled": true
+            },
+            {
+              "id": "1754282741520",
+              "title": "Stream and listen to music online for free with SoundCloud",
+              "href": "https://soundcloud.com/",
+              "description": "Discover and play over 320 million music tracks. Join the world’s largest online community of artists, bands, DJs, and audio creators.",
+              "icon": "/assets/favicon_1754282744089.ico",
+              "enabled": true
             }
           ]
         }
