@@ -846,6 +846,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1754282992775",
+      "title": "网盘",
+      "icon": "LayoutList",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
