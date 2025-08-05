@@ -134,7 +134,7 @@
               "title": "DigitalPlat Domain",
               "href": "https://dash.domain.digitalplat.org/auth/login?next=%2F",
               "description": "免费域名 zhzy.dpdns.org copy.qzz.io",
-              "icon": "https://dash.domain.digitalplat.org/static/img/logo.jpg",
+              "icon": "/assets/img_1754437760213.png",
               "enabled": true
             },
             {
