@@ -54,6 +54,14 @@
               "description": "Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.",
               "icon": "/assets/favicon_1754278935385.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754437810216_40dp6dc1g",
+              "title": "Zeabur",
+              "href": "https://zeabur.com/projects",
+              "description": "",
+              "icon": "/assets/favicon_1754437802521.svg",
+              "enabled": true
             }
           ]
         },
