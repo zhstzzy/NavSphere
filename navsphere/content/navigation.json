@@ -470,14 +470,6 @@
               "description": "",
               "icon": "https://favicon.im/z-library.sk?larger=true",
               "enabled": true
-            },
-            {
-              "id": "1753794716720",
-              "title": "电子书转换",
-              "href": "http://cn.epubee.com/",
-              "description": "在线电子书转换, 免费电子书转换器",
-              "icon": "https://favicon.im/cn.epubee.com?larger=true",
-              "enabled": true
             }
           ]
         },
