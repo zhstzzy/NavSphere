@@ -42,19 +42,19 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1754437810216_40dp6dc1g",
-              "title": "Zeabur",
-              "href": "https://zeabur.com/projects",
-              "description": "",
-              "icon": "/assets/favicon_1754437802521.svg",
-              "enabled": true
-            },
-            {
               "id": "1753795034886",
               "title": "claw.cloud",
               "href": "https://us-west-1.run.claw.cloud/",
               "description": "ClawCloud",
               "icon": "/assets/favicon_1754281772086.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754437810216_40dp6dc1g",
+              "title": "Zeabur",
+              "href": "https://zeabur.com/projects",
+              "description": "",
+              "icon": "/assets/favicon_1754437802521.svg",
               "enabled": true
             },
             {
