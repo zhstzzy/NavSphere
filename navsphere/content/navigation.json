@@ -896,6 +896,15 @@
         }
       ],
       "subCategories": []
+    },
+    {
+      "id": "1754529226036",
+      "title": "常用",
+      "icon": "Star",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
