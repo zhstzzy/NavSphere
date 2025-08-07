@@ -1,6 +1,15 @@
 {
   "navigationItems": [
     {
+      "id": "1754529226036",
+      "title": "常用",
+      "icon": "Star",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1753791982828",
       "title": "工具",
       "icon": "Folder",
@@ -895,15 +904,6 @@
           "enabled": true
         }
       ],
-      "subCategories": []
-    },
-    {
-      "id": "1754529226036",
-      "title": "常用",
-      "icon": "Star",
-      "description": "",
-      "enabled": true,
-      "items": [],
       "subCategories": []
     }
   ]
