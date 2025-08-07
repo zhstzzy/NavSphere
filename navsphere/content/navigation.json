@@ -6,7 +6,16 @@
       "icon": "Star",
       "description": "",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "1754529302925",
+          "title": "LINUX DO",
+          "href": "https://linux.do/",
+          "description": "",
+          "icon": "https://linux.do/uploads/default/original/4X/c/c/d/ccd8c210609d498cbeb3d5201d4c259348447562.png",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     },
     {
