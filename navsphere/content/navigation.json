@@ -88,6 +88,14 @@
               "description": "Figma is the leading collaborative design tool for building meaningful products. Seamlessly design, prototype, develop, and collect feedback in a single platform.",
               "icon": "/assets/favicon_1754278935385.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754608195073_vwu1rx95k",
+              "title": "一键部署，弹性扩容，自动伸缩，容器化部署平台 - Leaflow",
+              "href": "https://leaflow.net/dashboard",
+              "description": "欢迎回来 Leaflow利飞 ，我们提供高效的容器化部署解决方案。这里提供按需付费，内置自动扩缩容服务，拥有高可用性的多地集群。让您把钱花在刀刃上，为自己使用的资源付费。",
+              "icon": "/assets/favicon_1754608185679.svg",
+              "enabled": true
             }
           ]
         },
