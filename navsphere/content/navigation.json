@@ -414,6 +414,14 @@
               "description": "L站",
               "icon": "https://favicon.im/api.awa1.fun?larger=true",
               "enabled": true
+            },
+            {
+              "id": "1754713149927",
+              "title": "Veloera",
+              "href": "https://zone.veloera.org",
+              "description": "L站N佬",
+              "icon": "/assets/favicon_1754713155465.ico",
+              "enabled": true
             }
           ]
         },
