@@ -368,6 +368,14 @@
               "enabled": true
             },
             {
+              "id": "site_1754356657144_rgws5xpp9",
+              "title": "秘塔AI搜索",
+              "href": "https://metaso.cn/",
+              "description": "秘塔AI搜索，没有广告，直达结果",
+              "icon": "/assets/favicon_1754356648179.png",
+              "enabled": true
+            },
+            {
               "id": "1753794303637",
               "title": "Kimi.ai",
               "href": "https://kimi.moonshot.cn/",
@@ -405,14 +413,6 @@
               "href": "https://api.awa1.fun/app/me",
               "description": "L站",
               "icon": "https://favicon.im/api.awa1.fun?larger=true",
-              "enabled": true
-            },
-            {
-              "id": "site_1754356657144_rgws5xpp9",
-              "title": "秘塔AI搜索",
-              "href": "https://metaso.cn/",
-              "description": "秘塔AI搜索，没有广告，直达结果",
-              "icon": "/assets/favicon_1754356648179.png",
               "enabled": true
             }
           ]
