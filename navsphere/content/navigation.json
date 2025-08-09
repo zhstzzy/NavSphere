@@ -336,6 +336,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1753794320640",
+              "title": "Coze",
+              "href": "https://www.coze.com/home",
+              "description": "",
+              "icon": "https://favicon.im/www.coze.com?larger=true",
+              "enabled": true
+            },
+            {
               "id": "1753794272179",
               "title": "ChatGPT",
               "href": "https://chat.openai.com/",
@@ -373,14 +381,6 @@
               "href": "https://web.chatboxai.app/",
               "description": "",
               "icon": "https://favicon.im/web.chatboxai.app?larger=true",
-              "enabled": true
-            },
-            {
-              "id": "1753794320640",
-              "title": "Coze",
-              "href": "https://www.coze.com/home",
-              "description": "",
-              "icon": "https://favicon.im/www.coze.com?larger=true",
               "enabled": true
             },
             {
