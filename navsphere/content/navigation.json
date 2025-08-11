@@ -44,7 +44,7 @@
               "title": "Claw Cloud",
               "href": "https://ap-southeast-1.run.claw.cloud/",
               "description": "提供云应用部署和托管服务的平台。",
-              "icon": "https://run.claw.cloud/favicon.ico",
+              "icon": "https://favicon.im/run.claw.cloud?larger=true",
               "enabled": true
             },
             {
@@ -52,7 +52,7 @@
               "title": "Zeabur",
               "href": "https://zeabur.com/projects",
               "description": "面向开发者的云服务平台，可以一键部署服务、数据库或前端项目。",
-              "icon": "https://zeabur.com/favicon.ico",
+              "icon": "https://favicon.im/zeabur.com?larger=true",
               "enabled": true
             },
             {
@@ -60,7 +60,7 @@
               "title": "Leaflow",
               "href": "https://leaflow.net/dashboard",
               "description": "提供云服务的平台，可能专注于网络或代理服务。",
-              "icon": "https://leaflow.net/favicon.ico",
+              "icon": "https://favicon.im/leaflow.net?larger=true",
               "enabled": true
             },
             {
@@ -68,7 +68,7 @@
               "title": "在线PS",
               "href": "https://www.nuanque.com/ps/",
               "description": "提供在线图片编辑功能的网站，类似于Photoshop的网页版。",
-              "icon": "https://www.nuanque.com/favicon.ico",
+              "icon": "https://favicon.im/nuanque.com?larger=true",
               "enabled": true
             },
             {
@@ -76,7 +76,7 @@
               "title": "Qwerty Learner",
               "href": "https://qwerty.kaiyi.cool/",
               "description": "为程序员设计的英语单词练习和打字练习工具。",
-              "icon": "https://qwerty.kaiyi.cool/favicon.ico",
+              "icon": "https://favicon.im/qwerty.kaiyi.cool?larger=true",
               "enabled": true
             },
             {
@@ -84,7 +84,7 @@
               "title": "腾讯文档",
               "href": "https://docs.qq.com/desktop/mydoc",
               "description": "支持多人协作的在线文档编辑工具，包含文档、表格、幻灯片等。",
-              "icon": "https://docs.qq.com/favicon.ico",
+              "icon": "https://favicon.im/zh/docs.qq.com?larger=true",
               "enabled": true
             },
             {
@@ -92,7 +92,7 @@
               "title": "Figma",
               "href": "https://www.figma.com/",
               "description": "一款强大的在线UI/UX设计和协作工具。",
-              "icon": "https://www.figma.com/favicon.ico",
+              "icon": "https://favicon.im/www.figma.com?larger=true",
               "enabled": true
             }
           ]
@@ -109,7 +109,7 @@
               "title": "订阅转换",
               "href": "https://sub.vavv.cn/",
               "description": "Free Cloud提供的在线订阅转换工具，支持多种代理协议格式之间的转换。",
-              "icon": "https://sub.vavv.cn/favicon.ico",
+              "icon": "https://sub.vavv.cn/img/icons/favicon-32x32.png",
               "enabled": true
             },
             {
@@ -117,7 +117,7 @@
               "title": "Free Cloud",
               "href": "https://bento.me/freecloud",
               "description": "Free Cloud 提供免费云服务和代理节点信息的导航页面。",
-              "icon": "https://bento.me/favicon.ico",
+              "icon": "https://creatorspace.imgix.net/users/clzif6ivt03zxu40191t9xczf/DqSHEcjKLAE3T8Rl-photo_2024-07-11_21-04-47.jpg?w=300&h=300",
               "enabled": true
             },
             {
@@ -125,7 +125,7 @@
               "title": "Sub Store",
               "href": "https://sub.zhstzzy.tk/subs?api=https://sub.zhstzzy.tk/iOvK2KvIKzWsoi",
               "description": "一个强大的订阅管理和转换工具，适用于各类代理服务。",
-              "icon": "https://sub.zhstzzy.tk/favicon.ico",
+              "icon": "https://favicon.im/sub.zhstzzy.tk?larger=true",
               "enabled": true
             }
           ]
@@ -142,7 +142,7 @@
               "title": "Cloudflare",
               "href": "https://dash.cloudflare.com/",
               "description": "全球领先的网络性能和安全公司，提供CDN、DNS、DDoS保护等服务。",
-              "icon": "https://dash.cloudflare.com/favicon.ico",
+              "icon": "https://favicon.im/dash.cloudflare.com?larger=true",
               "enabled": true
             },
             {
@@ -150,7 +150,7 @@
               "title": "Freenom",
               "href": "https://www.freenom.com/zh/index.html?lang=zh",
               "description": "世界上第一个也是唯一一个免费域名提供商，提供多种免费顶级域名。",
-              "icon": "https://www.freenom.com/favicon.ico",
+              "icon": "https://favicon.im/www.freenom.com?larger=true",
               "enabled": true
             },
             {
@@ -158,7 +158,7 @@
               "title": "Spaceship",
               "href": "https://www.spaceship.com/",
               "description": "一家提供域名注册和托管服务的公司，以简洁的界面和创新的管理方式著称。",
-              "icon": "https://www.spaceship.com/favicon.ico",
+              "icon": "https://favicon.im/www.spaceship.com?larger=true",
               "enabled": true
             },
             {
@@ -166,15 +166,15 @@
               "title": "Name.com",
               "href": "https://www.name.com/zh-cn",
               "description": "知名的域名注册商，提供域名、网站托管、电子邮件等多种网络服务。",
-              "icon": "https://www.name.com/favicon.ico",
+              "icon": "https://favicon.im/www.name.com?larger=true",
               "enabled": true
             },
             {
               "id": "1754835010",
               "title": "DigitalPlat Domain icon",
-              "href": "https://register.us.kg/panel/main",
-              "description": "吉尔吉斯斯坦国家代码顶级域名 .kg 的官方注册管理面板。",
-              "icon": "https://register.us.kg/favicon.ico",
+              "href": "https://dash.domain.digitalplat.org/",
+              "description": "免费二级域名",
+              "icon": "https://favicon.im/dash.domain.digitalplat.org?larger=true",
               "enabled": true
             },
             {
@@ -182,7 +182,7 @@
               "title": "NYC.MN",
               "href": "https://dot.nyc.mn/my-domain/",
               "description": "提供.mn等特定后缀域名的注册和管理服务。",
-              "icon": "https://dot.nyc.mn/favicon.ico",
+              "icon": "https://favicon.im/dot.nyc.mn?larger=true",
               "enabled": true
             },
             {
@@ -190,7 +190,7 @@
               "title": "华为云云解析",
               "href": "https://console-intl.huaweicloud.com/dns/?region=af-north-1#/dns/publiczones",
               "description": "华为云提供的稳定、安全、高效的域名解析服务(DNS)。",
-              "icon": "https://console-intl.huaweicloud.com/favicon.ico",
+              "icon": "https://favicon.im/huaweicloud.com?larger=true",
               "enabled": true
             },
             {
@@ -198,7 +198,7 @@
               "title": "EdgeOne",
               "href": "https://edgeone.ai/",
               "description": "腾讯云推出的一体化边缘安全加速平台，为网站、应用提供安全防护、性能加速及边缘计算能力。",
-              "icon": "https://edgeone.ai/favicon.ico",
+              "icon": "https://favicon.im/edgeone.ai?larger=true",
               "enabled": true
             }
           ]
@@ -215,7 +215,7 @@
               "title": "LINUX DO",
               "href": "https://linux.do/",
               "description": "一个以人工智能和技术交流为主题的中文社区，氛围友善、专业。",
-              "icon": "https://linux.do/uploads/default/optimized/1X/a2c16422748ad29bfa715871734ca8a9round1133.png",
+              "icon": "https://favicon.im/linux.do?larger=true",
               "enabled": true
             },
             {
@@ -223,15 +223,7 @@
               "title": "远景论坛",
               "href": "https://bbs.pcbeta.com/",
               "description": "国内著名的PC技术论坛，尤其在Windows和macOS领域有深厚积累。",
-              "icon": "https://bbs.pcbeta.com/favicon.ico",
-              "enabled": true
-            },
-            {
-              "id": "1754835015",
-              "title": "NodeSeek",
-              "href": "https://www.nodeseek.com/",
-              "description": "一个专注于服务器、VPS和网络技术的交流社区。",
-              "icon": "https://www.nodeseek.com/favicon.ico",
+              "icon": "https://favicon.im/bbs.pcbeta.com?larger=true",
               "enabled": true
             },
             {
@@ -239,7 +231,15 @@
               "title": "NodeLoc",
               "href": "https://www.nodeloc.com/",
               "description": "一个讨论和分享主机、VPS相关信息的论坛。",
-              "icon": "https://www.nodeloc.com/favicon.ico",
+              "icon": "https://favicon.im/www.nodeloc.com?larger=true",
+              "enabled": true
+            },
+            {
+              "id": "1754835015",
+              "title": "NodeSeek",
+              "href": "https://www.nodeseek.com/",
+              "description": "一个专注于服务器、VPS和网络技术的交流社区。",
+              "icon": "https://favicon.im/www.nodeseek.com?larger=true",
               "enabled": true
             }
           ]
@@ -256,7 +256,7 @@
               "title": "原版软件",
               "href": "https://next.itellyou.cn/Original/#",
               "description": "知名的微软原版系统和软件镜像下载站，提供纯净的安装资源。",
-              "icon": "https://next.itellyou.cn/favicon.ico",
+              "icon": "https://favicon.im/next.itellyou.cn?larger=true",
               "enabled": true
             },
             {
@@ -264,7 +264,7 @@
               "title": "汇软仓",
               "href": "https://ruancang.my.qingzhan.com/",
               "description": "一个分享各类PC软件资源的网站。",
-              "icon": "https://ruancang.my.qingzhan.com/favicon.ico",
+              "icon": "https://favicon.im/ruancang.my.qingzhan.com?larger=true",
               "enabled": true
             },
             {
@@ -272,7 +272,7 @@
               "title": "奇迹秀",
               "href": "http://www.qijishow.com/",
               "description": "一个分享设计素材和软件资源的网站，专注于为设计师提供灵感和工具。",
-              "icon": "http://www.qijishow.com/favicon.ico",
+              "icon": "https://favicon.im/www.qijishow.com?larger=true",
               "enabled": true
             },
             {
@@ -304,7 +304,7 @@
               "title": "软仓",
               "href": "https://www.ruancang.net/",
               "description": "一个简洁的软件分享网站，提供各类实用PC软件。",
-              "icon": "https://www.ruancang.net/favicon.ico",
+              "icon": "https://favicon.im/www.ruancang.net?larger=true",
               "enabled": true
             },
             {
@@ -353,7 +353,7 @@
               "title": "Switch520",
               "href": "https://www.gamer520.com/",
               "description": "一个专注于任天堂Switch游戏资源分享和交流的网站。",
-              "icon": "https://www.gamer520.com/favicon.ico",
+              "icon": "https://favicon.im/www.gamer520.com?larger=true",
               "enabled": true
             },
             {
@@ -361,7 +361,7 @@
               "title": "小叽资源",
               "href": "https://steamzg.com/",
               "description": "一个分享PC游戏资源的网站，提供免费的游戏下载。",
-              "icon": "https://steamzg.com/favicon.ico",
+              "icon": "https://favicon.im/steamzg.com?larger=true",
               "enabled": true
             }
           ]
@@ -386,7 +386,7 @@
               "title": "DeepSeek",
               "href": "https://chat.deepseek.com/",
               "description": "由DeepSeek AI开发的提供免费服务的AI对话助手。",
-              "icon": "https://chat.deepseek.com/favicon.ico",
+              "icon": "https://favicon.im/deepseek.com?larger=true",
               "enabled": true
             },
             {
@@ -394,7 +394,7 @@
               "title": "通义",
               "href": "https://tongyi.aliyun.com/qianwen",
               "description": "阿里巴巴集团旗下的大语言模型，提供全面的AI能力。",
-              "icon": "https://tongyi.aliyun.com/favicon.ico",
+              "icon": "https://favicon.im/tongyi.aliyun.com?larger=true",
               "enabled": true
             },
             {
@@ -418,7 +418,7 @@
               "title": "Coze",
               "href": "https://www.coze.com/home",
               "description": "一个用于开发下一代AI聊天机器人的应用程序编辑平台。",
-              "icon": "https://www.coze.com/favicon.ico",
+              "icon": "https://favicon.im/www.coze.com?larger=true",
               "enabled": true
             },
             {
@@ -442,7 +442,7 @@
               "title": "Open WebUI",
               "href": "https://owu.houu.de/",
               "description": "L站houu | 一个可与Ollama等本地大语言模型交互的Web用户界面。",
-              "icon": "https://owu.houu.de/favicon.ico",
+              "icon": "https://favicon.im/owu.houu.de?larger=true",
               "enabled": true
             }
           ]
@@ -489,9 +489,9 @@
             {
               "id": "1754835047",
               "title": "Gemini Key Seeker",
-              "href": "https://geminikeyseeker.o0o.moe/?status=200",
+              "href": "https://geminikeyseeker.o0o.moe/",
               "description": "一个用于查找和验证免费的Google Gemini API Key的工具。",
-              "icon": "https://geminikeyseeker.o0o.moe/favicon.ico",
+              "icon": "https://geminikeyseeker.o0o.moe/static/favicon.svg?2",
               "enabled": true
             }
           ]
@@ -542,7 +542,7 @@
               "title": "猫公子",
               "href": "https://fb.miaogongzi.cc/",
               "description": "一个简洁的导航页面，集合了作者的个人主页、社交媒体链接以及常用工具。",
-              "icon": "https://fb.miaogongzi.cc/favicon.ico",
+              "icon": "https://favicon.im/fb.miaogongzi.cc?larger=true",
               "enabled": true
             },
             {
@@ -558,7 +558,7 @@
               "title": "阅读APP源",
               "href": "https://legado.aoaostar.com/",
               "description": "一个收集和分享“阅读”APP书源的网站。",
-              "icon": "https://legado.aoaostar.com/favicon.ico",
+              "icon": "https://favicon.im/legado.aoaostar.com?larger=true",
               "enabled": true
             },
             {
@@ -582,7 +582,7 @@
               "title": "番茄小说",
               "href": "https://fanqienovel.com/",
               "description": "字节跳动旗下的免费网络文学平台，提供海量正版小说。",
-              "icon": "https://fanqienovel.com/favicon.ico",
+              "icon": "https://favicon.im/fanqienovel.com?larger=true",
               "enabled": true
             },
             {
@@ -615,7 +615,7 @@
               "title": "ALL TO ALL",
               "href": "https://www.alltoall.net/",
               "description": "一个提供多种格式文件在线转换服务的网站。",
-              "icon": "https://www.alltoall.net/favicon.ico",
+              "icon": "https://favicon.im/alltoall.net?larger=true",
               "enabled": true
             },
             {
@@ -623,7 +623,7 @@
               "title": "PDF to Markdown",
               "href": "https://pdf2md.morethan.io/",
               "description": "一个简洁的在线工具，用于将PDF文件转换为Markdown格式。",
-              "icon": "https://pdf2md.morethan.io/favicon.ico",
+              "icon": "https://favicon.im/pdf2md.morethan.io?larger=true",
               "enabled": true
             },
             {
@@ -650,6 +650,14 @@
               "description": "一个提供OpenWrt固件在线编译和下载服务的网站。",
               "icon": "https://supes.top/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1792987654",
+              "title": "OpenWrt.ai - 在线固件编译",
+              "href": "https://openwrt.ai/",
+              "description": "一个支持在线定制和编译 OpenWrt 固件的平台，为超过300种设备提供服务。用户无需专业知识，即可快速生成专属的、纯净且强大的固件，并支持后台一键OTA更新。",
+              "icon": "https://favicon.im/openwrt.ai?larger=true",
+              "enabled": true
             }
           ]
         },
@@ -665,7 +673,7 @@
               "title": "PicGo",
               "href": "https://www.picgo.net/",
               "description": "一个优秀的图床上传工具，支持多种图床服务，极大方便博主和开发者。",
-              "icon": "https://www.picgo.net/favicon.ico",
+              "icon": "https://favicon.im/picgo.net?larger=true",
               "enabled": true
             },
             {
@@ -690,7 +698,7 @@
               "title": "密码库",
               "href": "https://mm.yaya.icu/#/vault",
               "description": "mm.yaya.icu | 闲鱼购买",
-              "icon": "https://mm.yaya.icu/favicon.ico",
+              "icon": "https://favicon.im/mm.yaya.icu?larger=true",
               "enabled": true
             },
             {
@@ -698,7 +706,7 @@
               "title": "密码库 | muyuan",
               "href": "https://oj.muyuanhuck.cn/#/vault",
               "description": "L站muyuan ",
-              "icon": "https://oj.muyuanhuck.cn/favicon.ico",
+              "icon": "https://favicon.im/oj.muyuanhuck.cn?larger=true",
               "enabled": true
             },
             {
@@ -706,7 +714,7 @@
               "title": "密码库",
               "href": "https://password.xuxo.top/#/vault",
               "description": "L站xuxo",
-              "icon": "https://password.xuxo.top/favicon.ico",
+              "icon": "https://favicon.im/password.xuxo.top?larger=true",
               "enabled": true
             },
             {
@@ -714,7 +722,7 @@
               "title": "密码库",
               "href": "https://mm.copyz.top/#/vault",
               "description": "自建",
-              "icon": "https://mm.copyz.top/favicon.ico",
+              "icon": "https://favicon.im/mm.copyz.top?larger=true",
               "enabled": true
             }
           ]
@@ -732,8 +740,8 @@
         {
           "id": "b6a5e4d9-bf3c-4e89-a2a1-6d7e7e6f8b0c",
           "title": "默认",
-          "icon": "Magnet",
-          "description": "BT和磁力链接资源站",
+          "icon": "Folder",
+          "description": "",
           "enabled": true,
           "items": [
             {
@@ -741,7 +749,7 @@
               "title": "The Movie Database (TMDB)",
               "href": "https://www.themoviedb.org/",
               "description": "一个由社区构建的电影和电视节目数据库，提供丰富的元数据和图片。",
-              "icon": "https://www.themoviedb.org/favicon.ico",
+              "icon": "https://favicon.im/www.themoviedb.org?larger=true",
               "enabled": true
             },
             {
@@ -749,7 +757,7 @@
               "title": "TheTVDB",
               "href": "https://thetvdb.com/",
               "description": "一个由社区驱动的电视剧、动漫和电影信息数据库。",
-              "icon": "https://thetvdb.com/favicon.ico",
+              "icon": "https://favicon.im/thetvdb.com?larger=true",
               "enabled": true
             },
             {
@@ -757,7 +765,7 @@
               "title": "樱花动漫",
               "href": "http://www.iyinghua.com/",
               "description": "一个提供海量动漫在线观看的网站。",
-              "icon": "http://www.iyinghua.com/favicon.ico",
+              "icon": "https://favicon.im/www.iyinghua.com?larger=true",
               "enabled": true
             },
             {
@@ -765,7 +773,7 @@
               "title": "LibreTV",
               "href": "https://libretv.ko425.dpdns.org/",
               "description": "一个免费的在线影视观看平台。",
-              "icon": "https://libretv.ko425.dpdns.org/favicon.ico",
+              "icon": "https://favicon.im/libretv.ko425.dpdns.org?larger=true",
               "enabled": true
             },
             {
@@ -773,7 +781,7 @@
               "title": "freemediaheckyeah",
               "href": "https://fmhy.net/",
               "description": "一个收录了大量免费流媒体、下载、软件等资源的索引维基。",
-              "icon": "https://fmhy.net/favicon.ico",
+              "icon": "https://favicon.im/fmhy.net?larger=true",
               "enabled": true
             },
             {
@@ -781,7 +789,7 @@
               "title": "TVBox配置",
               "href": "https://jinenyy.vip/app/tvbox/",
               "description": "一个提供TVBox应用配置接口和教程的导航网站。",
-              "icon": "https://jinenyy.vip/favicon.ico",
+              "icon": "https://favicon.im/jinenyy.vip/?larger=true",
               "enabled": true
             }
           ]
@@ -798,7 +806,7 @@
               "title": "SeedHub",
               "href": "https://www.seedhub.cc/",
               "description": "一个影视和动漫资源分享社区，提供BT下载和磁力链接。",
-              "icon": "https://www.seedhub.cc/favicon.ico",
+              "icon": "https://favicon.im/www.seedhub.cc?larger=true",
               "enabled": true
             },
             {
@@ -806,7 +814,7 @@
               "title": "BT之家1LOU站",
               "href": "https://www.1lou.me/",
               "description": "知名的BT资源发布和分享网站，提供影视、游戏、软件等资源。",
-              "icon": "https://www.1lou.me/favicon.ico",
+              "icon": "https://favicon.im/www.1lou.me?larger=true",
               "enabled": true
             },
             {
@@ -814,7 +822,7 @@
               "title": "BT之家",
               "href": "https://btzj.net/",
               "description": "一个提供BT种子和磁力链接搜索的网站。",
-              "icon": "https://btzj.net/favicon.ico",
+              "icon": "https://favicon.im/btzj.net?larger=true",
               "enabled": true
             },
             {
@@ -830,7 +838,7 @@
               "title": "音范丝",
               "href": "https://www.yinfans.me/",
               "description": "一个专注于分享高清、蓝光原盘电影资源的网站。",
-              "icon": "https://www.yinfans.me/wp-content/themes/Loos2/images/favicon.ico",
+              "icon": "https://favicon.im/www.yinfans.me?larger=true",
               "enabled": true
             },
             {
@@ -838,7 +846,7 @@
               "title": "ACG.RIP",
               "href": "https://acg.rip/",
               "description": "一个分享动漫、漫画、游戏等ACG资源的BT站。",
-              "icon": "https://acg.rip/favicon.ico",
+              "icon": "https://favicon.im/acg.rip?larger=true",
               "enabled": true
             },
             {
@@ -879,7 +887,7 @@
               "title": "SubHD",
               "href": "https://subhd.tv/",
               "description": "一个高质量字幕分享和交流的平台，提供丰富的特效字幕。",
-              "icon": "https://img.subhd.tv/files/favicon-32x32.png",
+              "icon": "https://favicon.im/subhd.tv?larger=true",
               "enabled": true
             }
           ]
@@ -930,7 +938,7 @@
           "title": "QQ邮箱",
           "href": "https://mail.qq.com/",
           "description": "腾讯公司推出的邮箱服务，功能强大，支持大文件中转站。",
-          "icon": "https://mail.qq.com/favicon.ico",
+          "icon": "https://favicon.im/mail.qq.com/?larger=true",
           "enabled": true
         },
         {
@@ -938,7 +946,7 @@
           "title": "网易邮箱",
           "href": "https://mail.163.com/",
           "description": "网易公司提供的免费电子邮件服务，拥有多个域名后缀。",
-          "icon": "https://mail.163.com/favicon.ico",
+          "icon": "https://favicon.im/mail.163.com/?larger=true",
           "enabled": true
         },
         {
@@ -946,7 +954,7 @@
           "title": "Gmail",
           "href": "https://mail.google.com/",
           "description": "谷歌提供的免费电子邮件服务，以其强大的搜索功能和简洁的界面著称。",
-          "icon": "https://mail.google.com/favicon.ico",
+          "icon": "https://favicon.im/mail.google.com?larger=true",
           "enabled": true
         },
         {
@@ -954,7 +962,7 @@
           "title": "Outlook",
           "href": "https://outlook.live.com/",
           "description": "微软提供的免费个人电子邮件服务，深度整合Office套件。",
-          "icon": "https://outlook.live.com/favicon.ico",
+          "icon": "https://favicon.im/outlook.live.com/?larger=true",
           "enabled": true
         },
         {
@@ -1003,7 +1011,7 @@
           "title": "百度网盘",
           "href": "https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list",
           "description": "百度公司推出的个人云存储服务，拥有庞大的用户群体和丰富的资源。",
-          "icon": "https://pan.baidu.com/favicon.ico",
+          "icon": "https://favicon.im/pan.baidu.com/?larger=true",
           "enabled": true
         },
         {
