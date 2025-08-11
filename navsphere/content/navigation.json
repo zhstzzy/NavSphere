@@ -41,10 +41,10 @@
           "items": [
             {
               "id": "1754835085",
-              "title": "Claw Cloud",
+              "title": "run.claw.cloud",
               "href": "https://ap-southeast-1.run.claw.cloud/",
-              "description": "提供云应用部署和托管服务的平台。",
-              "icon": "https://favicon.im/run.claw.cloud?larger=true",
+              "description": "ClawCloud",
+              "icon": "/assets/favicon_1754880863716.png",
               "enabled": true
             },
             {
