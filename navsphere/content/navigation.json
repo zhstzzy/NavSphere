@@ -983,7 +983,8 @@
         }
       ],
       "subCategories": [],
-      "enabled": true
+      "enabled": true,
+      "description": ""
     },
     {
       "id": "b6c7d8e9-f0a1-2345-6789-456789012345",
