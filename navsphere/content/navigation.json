@@ -94,6 +94,14 @@
               "description": "一款强大的在线UI/UX设计和协作工具。",
               "icon": "https://favicon.im/www.figma.com?larger=true",
               "enabled": true
+            },
+            {
+              "id": "1754881732198",
+              "title": "Vercel:",
+              "href": "https://vercel.com/",
+              "description": "Vercel gives developers the frameworks, workflows, and infrastructure to build a faster, more personalized web.",
+              "icon": "/assets/favicon_1754881735315.png",
+              "enabled": true
             }
           ]
         },
