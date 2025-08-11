@@ -664,7 +664,7 @@
               "title": "OpenWrt.ai - 在线固件编译",
               "href": "https://openwrt.ai/",
               "description": "一个支持在线定制和编译 OpenWrt 固件的平台，为超过300种设备提供服务。用户无需专业知识，即可快速生成专属的、纯净且强大的固件，并支持后台一键OTA更新。",
-              "icon": "https://favicon.im/openwrt.ai?larger=true",
+              "icon": "https://supes.top/favicon.ico",
               "enabled": true
             }
           ]
