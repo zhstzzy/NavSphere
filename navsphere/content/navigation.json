@@ -59,8 +59,8 @@
               "id": "1754835086",
               "title": "Leaflow",
               "href": "https://leaflow.net/dashboard",
-              "description": "提供云服务的平台，可能专注于网络或代理服务。",
-              "icon": "https://favicon.im/leaflow.net?larger=true",
+              "description": "我们提供高效的容器化部署解决方案。这里提供按需付费，内置自动扩缩容服务，拥有高可用性的多地集群。让您把钱花在刀刃上，为自己使用的资源付费。",
+              "icon": "/assets/favicon_1754880900849.svg",
               "enabled": true
             },
             {
