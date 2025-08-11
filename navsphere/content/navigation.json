@@ -652,14 +652,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "1754835068",
-              "title": "OpenWrt固件下载与在线定制编译",
-              "href": "https://supes.top/?version=22.03&target=x86%2F64&id=generic",
-              "description": "一个提供OpenWrt固件在线编译和下载服务的网站。",
-              "icon": "https://supes.top/favicon.ico",
-              "enabled": true
-            },
-            {
               "id": "1792987654",
               "title": "OpenWrt.ai - 在线固件编译",
               "href": "https://openwrt.ai/",
