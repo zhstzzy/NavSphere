@@ -501,6 +501,14 @@
               "description": "一个用于查找和验证免费的Google Gemini API Key的工具。",
               "icon": "https://geminikeyseeker.o0o.moe/static/favicon.svg?2",
               "enabled": true
+            },
+            {
+              "id": "site_1754913572822_3pey7pq5l",
+              "title": "GPT Load",
+              "href": "https://gpt.copy.qzz.io/",
+              "description": "自建",
+              "icon": "/assets/favicon_1754913562192.png",
+              "enabled": true
             }
           ]
         },
