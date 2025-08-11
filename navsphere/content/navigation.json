@@ -434,7 +434,7 @@
               "title": "NeatChat",
               "href": "https://chat.bestip.one/#/settings",
               "description": "一个聚合多个大语言模型的第三方聊天界面。",
-              "icon": "https://chat.bestip.one/favicon.ico",
+              "icon": "/assets/img_1754880649992.png",
               "enabled": true
             },
             {
