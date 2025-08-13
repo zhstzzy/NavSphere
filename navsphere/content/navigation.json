@@ -509,6 +509,14 @@
               "description": "自建",
               "icon": "/assets/favicon_1754913562192.png",
               "enabled": true
+            },
+            {
+              "id": "1755128554090",
+              "title": "New API",
+              "href": "http://llm.imerji.cn/console/token",
+              "description": "L站 | ErJi",
+              "icon": "/assets/favicon_1755128556712.png",
+              "enabled": true
             }
           ]
         },
