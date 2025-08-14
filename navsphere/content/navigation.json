@@ -503,6 +503,14 @@
               "enabled": true
             },
             {
+              "id": "1755144627064",
+              "title": "New API",
+              "href": "https://api.nyxar.org/console/personal",
+              "description": "L站 | Nyxar",
+              "icon": "/assets/favicon_1755144631235.png",
+              "enabled": true
+            },
+            {
               "id": "1754835047",
               "title": "Gemini Key Seeker",
               "href": "https://geminikeyseeker.o0o.moe/",
@@ -516,14 +524,6 @@
               "href": "https://gpt.copy.qzz.io/",
               "description": "自建",
               "icon": "/assets/favicon_1754913562192.png",
-              "enabled": true
-            },
-            {
-              "id": "1755144627064",
-              "title": "New API",
-              "href": "https://api.nyxar.org/console/personal",
-              "description": "L站 | Nyxar",
-              "icon": "/assets/favicon_1755144631235.png",
               "enabled": true
             }
           ]
