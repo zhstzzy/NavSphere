@@ -525,6 +525,14 @@
               "description": "自建",
               "icon": "/assets/favicon_1754913562192.png",
               "enabled": true
+            },
+            {
+              "id": "1755265242821",
+              "title": "New API",
+              "href": "https://sdwfger.edu.kg/console/topup",
+              "description": "L站 | 233233",
+              "icon": "/assets/favicon_1755265249421.png",
+              "enabled": true
             }
           ]
         },
