@@ -455,14 +455,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1755233513699_4k6wuet2u",
-              "title": "Veloera",
-              "href": "https://992236.xyz/app/me",
-              "description": "L站 | finuno",
-              "icon": "/assets/favicon_1755233485154.png",
-              "enabled": true
-            },
-            {
               "id": "1754835043",
               "title": "Mu.Li API",
               "href": "https://api.awa1.fun/app/me",
@@ -508,6 +500,14 @@
               "href": "https://api.nyxar.org/console/personal",
               "description": "L站 | Nyxar",
               "icon": "/assets/favicon_1755144631235.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1755233513699_4k6wuet2u",
+              "title": "Veloera",
+              "href": "https://992236.xyz/app/me",
+              "description": "L站 | finuno",
+              "icon": "/assets/favicon_1755233485154.png",
               "enabled": true
             },
             {
